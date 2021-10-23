@@ -1,25 +1,13 @@
-# Disciplina
-
-## Cronograma
-
-<!-- Adicionar cronograma -->
-
-| Data   | Hora  | Conteúdo                           |
-|--------|-------|------------------------------------|
-| 02/SET | 13:30 | Apresentação da disciplina         |
-| 16/SET | 13:30 | Discussão sobre as atividades de C |
-| 18/SET | 10:10 | Fechamento da Unidade 1            |
+# INE5431 - Sistemas multimídia
 
 ## Horários de aula
 
-| Dia     | Hora  |
-|---------|-------|
-| Segunda | 13:30 |
-| Terça   | 13:30 |
-| Quarta  | 10:10 |
+Aulas assíncronas interativas usando o HP5, cada unidade tem um tempo limite para ser completada.
 
 ## Trabalhos
 
+Ao final de cada unidade tem um teste objetivo e síncrono com duração de uma hora.
+
 ## Notas
 
-## Provas
+Média simples dos testes
